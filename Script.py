@@ -246,7 +246,12 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b><a href=https://t.me/MRxOfficialSupport>{file_name}</a>
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>═════════════════════
+➜ Back-up @MRxOfficialTeam
+➜ Chat Support @MRxOfficialSupport
+════════════════════
+Tҽαɱ :- MRxOfficialTeam
+ꜱʜᴀʀᴇ ᴡɪᴛʜ ʏᴏᴜʀ ꜰʀɪᴇɴᴅꜱ ❤️😇</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
