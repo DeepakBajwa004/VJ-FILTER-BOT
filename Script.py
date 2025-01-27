@@ -204,7 +204,7 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Pushpa or Pushpa 2021 or Sky Force
+ᴇxᴀᴍᴘʟᴇ : Pushpa 2 or Pushpa 2021 or Iron Man En
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href=https://t.me/MRxOfficialSupport>{file_name}</a>
+    CAPTION = """<b><a href=https://t.me/MRxOfficialSupport>@MRxOfficialTeam{file_name}</a>
 <b>═════════════════════
 ➜ Back-up @MRxOfficialTeam
 ➜ Chat Support @MRxOfficialSupport
