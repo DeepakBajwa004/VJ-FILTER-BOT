@@ -5,7 +5,8 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ...💸</b>"""
+I AM A LATEST ADVANCED AND POWERFUL AUTO FILTER BOT. YOU CAN USE ME IN YOUR GROUP TO PROVIDE MOVIE.
+CREATED BY @MASOOM_JAATT</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -194,32 +195,45 @@ Nᴀᴍᴇ - {}"""
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
-ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
+ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?
+PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport
+AND PLEASE CHECK PINNED VIDEO CAREFULLY"""
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-𝚂𝙴𝙽𝙳 𝚈𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 @MRxOfficialSupport
+PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport
 
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+AND PLEASE CHECK PINNED VIDEO CAREFULLY</b>"""
 
-ᴇxᴀᴍᴘʟᴇ : Pushpa 2 or Pushpa 2021 or Iron Man En
-
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
-
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
-ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
+ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...
+PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport"""
 
-    MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
+    MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
+    PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
+    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️
+    
+    ✅ 𝙋𝙡𝙚𝙖𝙨𝙚 𝘾𝙝𝙚𝙘𝙠 𝙂𝙧𝙤𝙪𝙥 𝙍𝙪𝙡𝙚
+    
+    ♻️ Tɪᴘ ᴛᴏ ᴜsᴇ ʙᴏᴛ : ᴅᴏɴ'ᴛ ɪɴᴄʟᴜᴅᴇ ᴀɴʏᴛʜɪɴɢ ᴏᴛʜᴇʀ ᴛʜᴀɴ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ. 
+
+    Exᴀᴍᴘʟᴇ:   
+    Lᴏᴋɪ S01E05 ✅
+    Lᴏᴋɪ S01 ✅
+    Lᴏᴋɪ Sᴇᴀsᴏɴ 1 Eᴘɪsᴏᴅᴇ 5 ❌
+
+    Tɪɢᴇʀ 3 2023 ✅
+    Tɪɢᴇʀ 3 2023 Hɪɴᴅɪ ✅
+    Tɪɢᴇʀ 3 2023 Hɪɴᴅɪ Dᴜʙʙᴇᴅ ❌
+    Tɪɢᴇʀ 3 2023 Mᴏᴠɪᴇ❌
+
+    Thank You ❤️</b>"""
 
     SHORTLINK_INFO = """
 
