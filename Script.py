@@ -194,26 +194,35 @@ Nᴀᴍᴇ - {}"""
 ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
-    CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
+    CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ :- {}
+    
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?
-PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport
-AND PLEASE CHECK PINNED VIDEO CAREFULLY"""
+
+𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴
+
+𝙰𝙽𝙳 𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝙿𝙸𝙽𝙽𝙴𝙳 𝚅𝙸𝙳𝙴𝙾 𝙲𝙰𝚁𝙴𝙵𝚄𝙻𝙻𝚈 😇"""
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport
+𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴
 
-AND PLEASE CHECK PINNED VIDEO CAREFULLY</b>"""
+𝙰𝙽𝙳 𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝙿𝙸𝙽𝙽𝙴𝙳 𝚅𝙸𝙳𝙴𝙾 𝙲𝙰𝚁𝙴𝙵𝚄𝙻𝙻𝚈 😇</b>"""
 
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...
-PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport"""
+
+𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴"""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
-    PLEASE SEND THE MOVIE NAME HERE, YOU WILL GET THE MOVIE IN SOME TIME @MRxOfficialSupport"""
+
+    𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+    𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
