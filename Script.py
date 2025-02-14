@@ -272,6 +272,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b><a href=https://t.me/MRxOfficialSupport>🗃️ @MRxOfficialTeam {file_name}</a>
 <b>═════════════════════
 ➜ Back-up @MRxOfficialTeam
+➜ Updates @MRx_Movie_Updates
 ➜ Chat Support @MRxOfficialSupport
 ════════════════════
 Tҽαɱ :- MRxOfficialTeam
