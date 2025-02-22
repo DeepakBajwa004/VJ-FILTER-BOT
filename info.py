@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7644018455:AAHK7ichSbBY2iNSczS2cISx5x39Kve
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/8011302b1d199777be7f8-8c042b70bd99444e92.jpg')).split()
+PICS = (environ.get('PICS', 'https://i.ibb.co/ZpFzhybQ/images.png')).split()
 
 
 # Admins & Users
@@ -89,7 +89,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+a_3Ecsb73fs1ZWY1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MRxOfficialTeam')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+U0wo3tU9gLwzZjFl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MRxOfficialSupport') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/masoom_jaatt')
 
