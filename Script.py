@@ -47,7 +47,7 @@ CREATED BY @MASOOM_JAATT</b>"""
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=VJ-{}
+ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=MRx-{}
 
 ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
 
@@ -76,7 +76,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/vjupdates2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/Masoom_jaatt)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -198,7 +198,7 @@ Nᴀᴍᴇ - {}"""
     
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?
 
-𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxVoltzSupport,
 𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴
 
 𝙰𝙽𝙳 𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝙿𝙸𝙽𝙽𝙴𝙳 𝚅𝙸𝙳𝙴𝙾 𝙲𝙰𝚁𝙴𝙵𝚄𝙻𝙻𝚈 😇"""
@@ -207,7 +207,7 @@ Nᴀᴍᴇ - {}"""
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxVoltzSupport,
 𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴
 
 𝙰𝙽𝙳 𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝙿𝙸𝙽𝙽𝙴𝙳 𝚅𝙸𝙳𝙴𝙾 𝙲𝙰𝚁𝙴𝙵𝚄𝙻𝙻𝚈 😇</b>"""
@@ -216,12 +216,12 @@ Nᴀᴍᴇ - {}"""
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...
 
-𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxVoltzSupport,
 𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴"""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
 
-    𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxOfficialSupport,
+    𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @MRxVoltzSupport,
     𝚈𝙾𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 𝙸𝙽 𝚂𝙾𝙼𝙴 𝚃𝙸𝙼𝙴"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
@@ -269,11 +269,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href=https://t.me/MRxOfficialSupport>🗃️ @MRxOfficialTeam {file_name}</a>
+    CAPTION = """<b><a href=https://t.me/MRxVoltzSupport>🗃️ @MRxVoltz {file_name}</a>
 <b>═════════════════════
-➜ Back-up @MRxOfficialTeam
-➜ Updates @MRx_Movie_Updates
-➜ Chat Support @MRxOfficialSupport
+➜ Back-up @MRxVoltz
+➜ Updates @mRx_Cinema_Updates
+➜ Chat Support @MRxVoltzSupport
 ════════════════════
 Tҽαɱ :- MRxOfficialTeam
 ꜱʜᴀʀᴇ ᴡɪᴛʜ ʏᴏᴜʀ ꜰʀɪᴇɴᴅꜱ ❤️😇</b>""" 
@@ -656,7 +656,7 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس VJ-FILTER-BOT بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس MRxVoltz بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
